@@ -13,21 +13,8 @@ export const metadata: Metadata = {
     "BiteTime is a mobile app that pauses videos for 30-second breaks to encourage kids to eat healthy while watching their favorite content.",
   generator: "v0.app",
   icons: {
-    icon: [
-      {
-        url: "/icon-light-32x32.png",
-        media: "(prefers-color-scheme: light)",
-      },
-      {
-        url: "/icon-dark-32x32.png",
-        media: "(prefers-color-scheme: dark)",
-      },
-      {
-        url: "/icon.svg",
-        type: "image/svg+xml",
-      },
-    ],
-    apple: "/apple-icon.png",
+    icon: "/bite_time_logo.png",
+    apple: "/bite_time_logo.png",
   },
 }
 
