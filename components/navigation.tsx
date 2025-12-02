@@ -1,5 +1,6 @@
-"use client"
+  "use client"
 
+import Image from "next/image"
 import { useState } from "react"
 import { Menu, X } from "lucide-react"
 
@@ -22,10 +23,19 @@ export default function Navigation() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
-          <div className="flex items-center">
-            <div className="text-3xl font-bold text-primary">🍴</div>
-            <span className="ml-2 text-xl font-bold text-foreground">BiteTime</span>
-          </div>
+          <a href="#home" className="flex items-center gap-2">
+            <div className="relative h-9 w-9">
+              <Image
+                src="/bite_time_logo.png"
+                alt="BiteTime logo"
+                fill
+                sizes="36px"
+                className="rounded-full object-contain"
+                priority
+              />
+            </div>
+            <span className="text-xl font-bold text-foreground">BiteTime</span>
+          </a>
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex space-x-1">
