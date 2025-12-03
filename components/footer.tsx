@@ -8,15 +8,18 @@ export default function Footer() {
           {/* About */}
           <div>
             <div className="flex items-center mb-4">
-              <div className="text-2xl">🍴</div>
-              <span className="ml-2 font-bold text-lg">BiteTime</span>
+              <div className="text-2xl">🕒</div>
+              <span className="ml-2 font-bold text-lg">Omved Creations LLC</span>
             </div>
-            <p className="text-sm text-primary-foreground/80">Making healthy eating fun through smart technology.</p>
+            <p className="text-sm text-primary-foreground/80">
+              Omved Creations builds Bitetime and other mindful digital experiences that support healthier, more
+              intentional living.
+            </p>
           </div>
 
           {/* Product */}
           <div>
-            <h4 className="font-bold mb-4">Product</h4>
+            <h4 className="font-bold mb-4">Bitetime App</h4>
             <ul className="space-y-2 text-sm text-primary-foreground/80">
               <li>
                 <a href="#features" className="hover:text-primary-foreground transition">
@@ -102,7 +105,8 @@ export default function Footer() {
         {/* Bottom */}
         <div className="flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-primary-foreground/80 mb-4 md:mb-0">
-            © 2025 BiteTime. All rights reserved. Making healthy eating fun!
+            © 2025 Omved Creations LLC. All rights reserved. Bitetime and other products are crafted to support
+            healthier, more mindful lives.
           </p>
 
           {/* Social Links */}

@@ -21,15 +21,15 @@ export default function Hero() {
 
         {/* Headline */}
         <h1 className="text-4xl md:text-6xl font-black text-foreground mb-4 leading-tight text-balance">
-          Watch. <span className="text-primary">Eat</span>.
+          Bitetime by <span className="text-primary">Omved Creations</span>
           <br />
-          Grow Healthy.
+          Healthier habits, one break at a time.
         </h1>
 
         {/* Subheadline */}
         <p className="text-lg md:text-xl text-muted-foreground mb-8 max-w-2xl mx-auto leading-relaxed">
-          BiteTime makes healthy eating fun! 🍎 The app pauses your videos for quick snack breaks, turning entertainment
-          into a healthy habit.
+          Bitetime is a mindful screen-time companion from Omved Creations LLC. The app gently pauses videos for short
+          breaks, helping families weave healthier, more intentional routines into everyday watching.
         </p>
 
         {/* CTA Buttons */}

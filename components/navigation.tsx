@@ -27,14 +27,14 @@ export default function Navigation() {
             <div className="relative h-9 w-9">
               <Image
                 src="/bite_time_logo.png"
-                alt="BiteTime logo"
+                alt="Bitetime app logo"
                 fill
                 sizes="36px"
                 className="rounded-full object-contain"
                 priority
               />
             </div>
-            <span className="text-xl font-bold text-foreground">BiteTime</span>
+            <span className="text-xl font-bold text-foreground">Omved Creations</span>
           </a>
 
           {/* Desktop Navigation */}

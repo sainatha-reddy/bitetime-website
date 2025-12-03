@@ -20,7 +20,7 @@ export default function FAQ() {
     {
       question: "What streaming services does BiteTime work with?",
       answer:
-        "BiteTime works with most major streaming platforms including Netflix, Disney+, YouTube, Amazon Prime Video, and many more. If your app streams video, BiteTime can enhance it!",
+        "BiteTime works with most major streaming platforms including YouTube, Kidjo ,Minno, PBS Kids , Kiddoodle. If your app streams video, BiteTime can enhance it!",
     },
     {
       question: "Can parents customize the break duration?",

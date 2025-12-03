@@ -9,9 +9,9 @@ export default function Mission() {
               Our <span className="text-accent">Mission</span>
             </h2>
             <p className="text-lg md:text-xl text-muted-foreground leading-relaxed mb-8 max-w-3xl mx-auto">
-              At BiteTime, we believe that healthy habits should be built through joy, not restriction. We're on a
-              mission to create a generation of kids who naturally combine their love of entertainment with a love of
-              healthy eating.
+              At Omved Creations, we believe technology should make people feel better, not busier. Our mission is to
+              build digital experiences—starting with Bitetime—that help families live more intentionally through small,
+              sustainable habit changes.
             </p>
 
             <div className="grid md:grid-cols-3 gap-6 mt-12">
