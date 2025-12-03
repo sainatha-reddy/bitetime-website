@@ -9,9 +9,10 @@ export default function Mission() {
               Our <span className="text-accent">Mission</span>
             </h2>
             <p className="text-lg md:text-xl text-muted-foreground leading-relaxed mb-8 max-w-3xl mx-auto">
-              At Omved Creations, we believe technology should make people feel better, not busier. Our mission is to
-              build digital experiences—starting with Bitetime—that help families live more intentionally through small,
-              sustainable habit changes.
+              Our mission is to make wellness accessible, engaging, and sustainable for everyone. By combining clean design, meaningful features, and evidence-informed approaches, we create digital experiences that empower individuals to live healthier every day.
+            </p>
+            <p className="text-lg md:text-xl text-muted-foreground leading-relaxed mb-8 max-w-3xl mx-auto">
+              At Omved Creations, technology is more than functionality—it's a pathway to positive change. We're committed to crafting solutions that help people feel better, live more intentionally, and build habits that last.
             </p>
 
             <div className="grid md:grid-cols-3 gap-6 mt-12">

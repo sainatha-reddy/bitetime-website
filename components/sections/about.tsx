@@ -14,7 +14,7 @@ export default function About() {
           {/* Left Side - Problem */}
           <div className="animate-slide-in-right">
             <div className="bg-secondary/30 rounded-3xl p-8 border-2 border-secondary">
-              <div className="text-6xl mb-4">😕</div>
+              <div className="text-6xl mb-4">👥</div>
               <h3 className="text-2xl font-bold mb-4 text-foreground">Who We Are</h3>
               <p className="text-muted-foreground leading-relaxed mb-4">
                 We design and build intuitive, user-centered apps that support wellbeing—whether through better habits,
