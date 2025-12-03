@@ -8,7 +8,7 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Omved Creations LLC — Bitetime App",
+  title: "Omved Creations LLC",
   description:
     "Omved Creations LLC builds the Bitetime app, a mindful screen-time companion that encourages healthier, more intentional habits through thoughtful technology.",
   generator: "v0.app",
