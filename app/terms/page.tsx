@@ -8,8 +8,8 @@ export default function TermsOfUsePage() {
             Last updated: {new Date().getFullYear()}
           </p>
           <p className="text-sm text-muted-foreground">
-            These Terms of Use (&quot;Terms&quot;) govern your access to and use of the BiteTime website, mobile
-            applications, and related services (collectively, the &quot;Services&quot;) in the United States. By
+            These Terms of Use (&quot;Terms&quot;) govern your access to and use of the Omved Creations LLC website, mobile
+            applications (including the Bitetime app), and related services (collectively, the &quot;Services&quot;) in the United States. By
             accessing or using the Services, you agree to be bound by these Terms.
           </p>
         </header>
@@ -55,7 +55,7 @@ export default function TermsOfUsePage() {
         <section className="space-y-3">
           <h2 className="text-xl font-semibold">4. Health and Safety Disclaimer</h2>
           <p className="text-sm text-muted-foreground">
-            BiteTime is intended to support healthier screen-time habits and snack routines but is not a substitute for
+            Bitetime is intended to support healthier screen-time habits and snack routines but is not a substitute for
             professional medical, nutritional, or mental health advice. Always consult a qualified health professional
             for questions about diet, nutrition, or your child&apos;s health. You are solely responsible for the health
             and safety decisions you make for yourself and your family.
@@ -85,7 +85,7 @@ export default function TermsOfUsePage() {
           <h2 className="text-xl font-semibold">7. Intellectual Property</h2>
           <p className="text-sm text-muted-foreground">
             All rights, title, and interest in and to the Services, including software, designs, text, graphics, logos,
-            and trademarks, are owned by BiteTime or our licensors and are protected by applicable intellectual
+            and trademarks, are owned by Omved Creations LLC or our licensors and are protected by applicable intellectual
             property laws. Except for the limited license granted above, no rights are transferred to you.
           </p>
         </section>
@@ -102,7 +102,7 @@ export default function TermsOfUsePage() {
         <section className="space-y-3">
           <h2 className="text-xl font-semibold">9. Limitation of Liability</h2>
           <p className="text-sm text-muted-foreground">
-            TO THE MAXIMUM EXTENT PERMITTED BY LAW, BITEIME AND ITS AFFILIATES, OFFICERS, EMPLOYEES, AND AGENTS WILL
+            TO THE MAXIMUM EXTENT PERMITTED BY LAW, OMVED CREATIONS LLC AND ITS AFFILIATES, OFFICERS, EMPLOYEES, AND AGENTS WILL
             NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF
             PROFITS OR REVENUES, ARISING OUT OF OR RELATED TO YOUR USE OF OR INABILITY TO USE THE SERVICES, EVEN IF WE
             HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
@@ -117,7 +117,7 @@ export default function TermsOfUsePage() {
         <section className="space-y-3">
           <h2 className="text-xl font-semibold">10. Indemnification</h2>
           <p className="text-sm text-muted-foreground">
-            You agree to indemnify and hold harmless BiteTime and its affiliates, officers, employees, and agents from
+            You agree to indemnify and hold harmless Omved Creations LLC and its affiliates, officers, employees, and agents from
             and against any claims, liabilities, damages, losses, and expenses (including reasonable attorneys&apos;
             fees) arising out of or related to your use of the Services or your violation of these Terms.
           </p>
@@ -126,7 +126,7 @@ export default function TermsOfUsePage() {
         <section className="space-y-3">
           <h2 className="text-xl font-semibold">11. Governing Law and Dispute Resolution</h2>
           <p className="text-sm text-muted-foreground">
-            These Terms are governed by the laws of the state in which BiteTime is organized and the federal laws of
+            These Terms are governed by the laws of the state in which Omved Creations LLC is organized and the federal laws of
             the United States, without regard to conflict-of-law principles. Any disputes arising out of or relating to
             these Terms or the Services will be resolved in the state or federal courts located in that state, unless
             otherwise required by applicable law.
@@ -157,7 +157,7 @@ export default function TermsOfUsePage() {
             If you have any questions about these Terms or the Services, you can contact us at:
           </p>
           <p className="text-sm text-muted-foreground">
-            BiteTime<br />
+            Omved Creations LLC<br />
             Email: support@bitetime.app
           </p>
         </section>
@@ -171,6 +171,7 @@ export default function TermsOfUsePage() {
     </main>
   )
 }
+
 
 
 

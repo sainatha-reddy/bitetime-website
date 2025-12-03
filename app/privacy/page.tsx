@@ -8,8 +8,8 @@ export default function PrivacyPolicyPage() {
             Last updated: {new Date().getFullYear()}
           </p>
           <p className="text-sm text-muted-foreground">
-            This Privacy Policy describes how BiteTime (&quot;we&quot;, &quot;us&quot;, or &quot;our&quot;) collects, uses, and shares
-            information about you when you use our website, mobile applications, and related services (collectively, the
+            This Privacy Policy describes how Omved Creations LLC (&quot;we&quot;, &quot;us&quot;, or &quot;our&quot;) collects, uses, and shares
+            information about you when you use our website, mobile applications (including the Bitetime app), and related services (collectively, the
             &quot;Services&quot;) in the United States.
           </p>
         </header>
@@ -90,7 +90,7 @@ export default function PrivacyPolicyPage() {
             <li>
               <strong>Legal and safety:</strong> when we believe disclosure is reasonably necessary to comply with law,
               regulation, legal process, or governmental request, or to protect the rights, property, or safety of
-              BiteTime, our users, or the public.
+              Omved Creations LLC, our users, or the public.
             </li>
             <li>
               <strong>Business transfers:</strong> in connection with a merger, acquisition, financing, reorganization,
@@ -155,7 +155,7 @@ export default function PrivacyPolicyPage() {
             at:
           </p>
           <p className="text-sm text-muted-foreground">
-            BiteTime<br />
+            Omved Creations LLC<br />
             Email: support@bitetime.app
           </p>
         </section>
@@ -169,6 +169,7 @@ export default function PrivacyPolicyPage() {
     </main>
   )
 }
+
 
 
 

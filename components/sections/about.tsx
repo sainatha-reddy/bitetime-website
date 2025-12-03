@@ -22,16 +22,16 @@ export default function About() {
               </p>
               <ul className="space-y-2 text-sm">
                 <li className="flex items-start">
-                  <span className="mr-3 text-lg">📱</span>
-                  <span>Too much uninterrupted screen time</span>
+                  <span className="mr-3 text-lg">🎨</span>
+                  <span>User-centered app design</span>
                 </li>
                 <li className="flex items-start">
-                  <span className="mr-3 text-lg">🍔</span>
-                  <span>Unhealthy snacking habits</span>
+                  <span className="mr-3 text-lg">🌱</span>
+                  <span>Supporting better habits & routines</span>
                 </li>
                 <li className="flex items-start">
-                  <span className="mr-3 text-lg">⏰</span>
-                  <span>No natural break times</span>
+                  <span className="mr-3 text-lg">🧘</span>
+                  <span>Holistic health & mindful living</span>
                 </li>
               </ul>
             </div>
